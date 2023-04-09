@@ -1,0 +1,66 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: black;
+}
+body h1 {
+  text-align: center;
+  color: white;
+  margin: 1rem 0;
+}
+body h4 {
+  text-align: center;
+  color: white;
+  margin: 1rem 0;
+}
+
+.all {
+  margin: 2rem auto;
+}
+.all input {
+  margin-bottom: 2rem;
+  border-style: none;
+  outline-style: none;
+}
+.all #btn {
+  color: white;
+  padding: 10px 17px;
+  margin-left: 28rem;
+  background-color: rgb(214, 139, 0);
+  border-style: none;
+  border-radius: 50%;
+  font-size: 20px;
+}
+
+.alert {
+  width: 20%;
+  margin: 10px auto;
+  text-align: center;
+}
+
+.tasks {
+  text-align: center;
+}
+.tasks .box {
+  background-color: rgb(46, 41, 41);
+  width: 50%;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px auto;
+  overflow-x: hidden;
+}
+.tasks button {
+  padding: 10px 20px;
+  color: white;
+  background-color: rgb(46, 41, 41);
+  font-size: 20px;
+  border-style: none;
+}
+.tasks h1 {
+  color: white;
+}/*# sourceMappingURL=style.css.map */
